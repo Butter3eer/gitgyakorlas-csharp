@@ -1,0 +1,8 @@
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\bin\Debug\elso_feladat.exe.config
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\bin\Debug\elso_feladat.exe
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\bin\Debug\elso_feladat.pdb
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\obj\Debug\elso_feladat.csproj.AssemblyReference.cache
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\obj\Debug\elso_feladat.csproj.SuggestedBindingRedirects.cache
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\obj\Debug\elso_feladat.csproj.CoreCompileInputs.cache
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\obj\Debug\elso_feladat.exe
+E:\STUDY\Petrik\gitgyakorlas-csharp\gitgyakorlas-csharp\elso_feladat\elso_feladat\obj\Debug\elso_feladat.pdb
